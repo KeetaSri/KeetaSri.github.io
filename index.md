@@ -51,8 +51,8 @@ I will develop some new game on it and present it to the professor, but not all 
 
 This game using Cocos2d framework and run on a python server
 
-![Alt Text](/imgs/game1.jpg)
+![Alt Text](/imgs/game1.png)
 
-![Alt Text](/imgs/game1-2.jpg)
+![Alt Text](/imgs/game1-2.png)
 
 Link for game [Click](https://github.com/KeetaSri/ISPproject).
