@@ -71,3 +71,18 @@ A monitor website that control the hardware around the plant nursery box. I been
 Link for the source code [Click](https://github.com/pattnatt/exceed-LeftLegOfExodia-Software/).
 
 Link for the projcet detail [Click](http://exceed.cpe.ku.ac.th/wiki/index.php/Exceed_13_Exodia(%E0%B8%82%E0%B8%B2%E0%B8%8B%E0%B9%89%E0%B8%B2%E0%B8%A2)).
+
+- Game: Rocket Shooting
+
+A 2d side scrolling game that create with Java GUI, this is group work though.
+
+This project is the first time we try to create a replay to look back what happened before on last 5 seconds.
+
+![Alt Text](/imgs/game2.png)
+
+![Alt Text](/imgs/game2-2.png)
+
+![Alt Text](/imgs/game2-3.png)
+
+Link for the game [Click](https://github.com/Khaofang/SSD_Project_RocketShooting).
+
