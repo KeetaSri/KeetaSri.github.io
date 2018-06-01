@@ -6,13 +6,16 @@ Though I still lack of knowledge to create a masterpiece of my own video game.
 
 ![Alt Text](/imgs/portrait.jpg)
 
+
 ### My Education
+
 
 I'm an Software and Knowledge and currently studying at Kasetsart University.
 
 Love all the subject that fuel my need for gaming material.
 
 But the backlash hit me by sending all my worse subject to F grade, cause I don't care that much.
+
 
 ```markdown
 
@@ -34,5 +37,14 @@ Skill
 - Talkative
 
 ```
+
+
+### My Experience
+
+
+Since I'm so obsessed with video game, each time that I go through doing some homework project, I will develop some new game on it and 
+
+present it to the professor, but not all the project are game project though.
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
