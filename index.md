@@ -42,9 +42,17 @@ Skill
 ### My Experience
 
 
-Since I'm so obsessed with video game, each time that I go through doing some homework project, I will develop some new game on it and 
+Since I'm so obsessed with video game, each time that I go through doing some homework project, 
 
-present it to the professor, but not all the project are game project though.
+I will develop some new game on it and present it to the professor, but not all the project are game project though.
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Game: Defend yourself
+
+This game using Cocos2d framework and run on a python server
+
+![Alt Text](/imgs/game1.jpg)
+
+![Alt Text](/imgs/game1-2.jpg)
+
+Link for game [Click](https://github.com/KeetaSri/ISPproject).
