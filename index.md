@@ -86,3 +86,10 @@ This project is the first time we try to create a replay to look back what happe
 
 Link for the game [Click](https://github.com/Khaofang/SSD_Project_RocketShooting).
 
+- Website: Macchiato ECommerce
+
+An E-Commerce website that sell coffee bean. This is the first time playing with Django.
+
+![Alt Text](/imgs/web1.jpg)
+
+Link for the source code [Click](https://github.com/SKE-Macchiato/ECommerce).
