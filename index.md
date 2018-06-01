@@ -46,6 +46,8 @@ Since I'm so obsessed with video game, each time that I go through doing some ho
 
 I will develop some new game on it and present it to the professor, but not all the project are game project though.
 
+Here is a work that I made, some are done in group.
+
 
 - Game: Defend yourself
 
