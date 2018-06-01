@@ -1,17 +1,21 @@
-## Welcome to GitHub Pages
+## Who is Keetawat
 
-You can use the [editor on GitHub](https://github.com/KeetaSri/KeetaSri.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Just an ordinary person with high hope and high expectations, with a lot of passion on become one as a game developer.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Though I still lack of knowledge to create a masterpiece of my own video game.
 
-### Markdown
+### My Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'm an Software and Knowledge and currently studying at Kasetsart University.
+
+Love all the subject that fuel my need for gaming material.
+
+But the backlash hit me by sending all my worse subject to F grade, cause I don't care that much.
 
 ```markdown
-Syntax highlighted code block
+Skill
 
-# Header 1
+asd
 ## Header 2
 ### Header 3
 
