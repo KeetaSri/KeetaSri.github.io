@@ -57,6 +57,9 @@ This game using Cocos2d framework and run on a python server
 
 Link for the game [Click](https://github.com/KeetaSri/ISPproject).
 
+
+
+
 - Project: Young plant nursery box
 
 A monitor website that control the hardware around the plant nursery box. I been assign as a front-end developer and responsible for website looks and UI.
@@ -68,4 +71,5 @@ A monitor website that control the hardware around the plant nursery box. I been
 ![Alt Text](/imgs/project1-3.jpg)
 
 Link for the source code [Click](https://github.com/pattnatt/exceed-LeftLegOfExodia-Software/).
+
 Link for the projcet detail [Click](http://exceed.cpe.ku.ac.th/wiki/index.php/Exceed_13_Exodia(%E0%B8%82%E0%B8%B2%E0%B8%8B%E0%B9%89%E0%B8%B2%E0%B8%A2)).
