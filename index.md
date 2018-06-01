@@ -4,6 +4,8 @@ Just an ordinary person with high hope and high expectations, with a lot of pass
 
 Though I still lack of knowledge to create a masterpiece of my own video game.
 
+![Alt Text](/imgs/portrait.jpg)
+
 ### My Education
 
 I'm an Software and Knowledge and currently studying at Kasetsart University.
