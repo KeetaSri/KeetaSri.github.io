@@ -111,3 +111,5 @@ A survey app on Android for my professor. I'm still working on this and it still
 Currently I'm gonna try and hook it up on Firebase Database.
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/D05sYO55R00/0.jpg)](http://www.youtube.com/watch?v=D05sYO55R00)
+
+Link for the video for explanation [Click](http://www.youtube.com/watch?v=D05sYO55R00).
