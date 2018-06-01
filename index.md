@@ -10,7 +10,7 @@ Though I still lack of knowledge to create a masterpiece of my own video game.
 ### My Education
 
 
-I'm an Software and Knowledge and currently studying at Kasetsart University.
+I'm a Software and Knowledge and currently studying at Kasetsart University.
 
 Love all the subject that fuel my need for gaming material.
 
