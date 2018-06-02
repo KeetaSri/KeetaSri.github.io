@@ -124,4 +124,4 @@ You can contact me via non-official email >> keetawat.s@hotmail.com
 
 or you can leave a message on my youtube channel here [Click](https://www.youtube.com/user/ThisForKeetawat/discussion).
 
-Here's my steam link profile >> https://steamcommunity.com/id/muang52
+Here's my Steam profile >> https://steamcommunity.com/id/muang52 [If you wanna join my gaming experience.]
