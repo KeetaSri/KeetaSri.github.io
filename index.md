@@ -117,3 +117,9 @@ Currently I'm gonna try and hook it up on Firebase Database.
 Link video for explanation [Click](http://www.youtube.com/watch?v=D05sYO55R00).
 
 _______________________________________________________________________________________________________________________________________
+
+## Contact
+
+You can contact me via non-official email >> keetawat.s@hotmail.com
+
+Here's my steam link profile >> https://steamcommunity.com/id/muang52
